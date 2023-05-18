@@ -17,4 +17,5 @@
 
 ## :computer: 프론트엔드
 
-- [CSR (Client Side Rendering)와 SSR(Server Side Rendering)의 장단점](https://github.com/leeseoshim/TIL/frontend/ccs-vs-ssr.md)
+- [CSR (Client Side Rendering)와 SSR(Server Side Rendering)의 장단점](https://github.com/leeseoshim/TIL/blob/main/frontend/ccs-vs-ssr.md)
+
