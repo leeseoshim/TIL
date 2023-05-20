@@ -24,6 +24,6 @@
 
 ## ReactJS
 
-- [useState](https://github.com/leeseoshim/TIL/frontend/ccs-vs-ssr.md)
-- [props](https://github.com/leeseoshim/TIL/frontend/ccs-vs-ssr.md)
-- [useMemo](https://github.com/leeseoshim/TIL/frontend/ccs-vs-ssr.md)
+- [useState](https://github.com/leeseoshim/TIL/blob/main/React/useState.md)
+- [props](https://github.com/leeseoshim/TIL/blob/main/React/props.md)
+- [useMemo](https://github.com/leeseoshim/TIL/blob/main/React/useMemo.md)
