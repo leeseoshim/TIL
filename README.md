@@ -24,6 +24,8 @@
 
 ## ReactJS
 
+- [startReact](https://github.com/leeseoshim/TIL/blob/main/React/startReact.md)
 - [useState](https://github.com/leeseoshim/TIL/blob/main/React/useState.md)
-- [props](https://github.com/leeseoshim/TIL/blob/main/React/props.md)
 - [useMemo](https://github.com/leeseoshim/TIL/blob/main/React/useMemo.md)
+- [props](https://github.com/leeseoshim/TIL/blob/main/React/props.md)
+- [useEffect](https://github.com/leeseoshim/TIL/blob/main/React/useEffect.md)

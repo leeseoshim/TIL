@@ -31,7 +31,16 @@ Child컴포넌트에 넣은 props onCLick은 이벤트리스너가 아니고, pr
 
 # Prop Types
 
+사용법
+npm i prop-types
+
+    import PropTypes from "prop-types";
+
 Prop Types을 지정해 놓으면 props시킬 때 잘못된 타입을 보내면 콘솔창에서 경고문구를 받을 수 있다.
+
+    fucntion Btn({text="Button", number}){
+       return <button>{text}</button>
+    }
 
     Btn.propTypes = {
         text: PropTypes.string,
