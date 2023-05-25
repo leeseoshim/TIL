@@ -25,7 +25,7 @@
 
 ## Javascript
 
-- [Map](https://github.com/leeseoshim/TIL/javascript/map.md)
+- [Map](https://github.com/leeseoshim/TIL/blob/main/javascript/map.md)
 
 <br>
 
