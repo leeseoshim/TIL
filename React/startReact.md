@@ -1,8 +1,18 @@
 # How to use React
 
-1. node.js 다운로드 후 npx커맨드가 실행되는지 확인
-2. npx create-react-app 폴더명
-   해당 폴더에 만들경우에는 폴더명 대신 .을 적어주면 된다.
+1.  node.js 다운로드 후 npx커맨드가 실행되는지 확인
+    node.js다운로드 시 npm도 같이 다운로드된다.
+
+    npx가 없다면
+
+         npm install npx -g
+
+    이렇게 4개가 다 설치되었으면 준비완료
+
+         node -v, npm -v, npx -v, git -- version
+
+2.  npx create-react-app 폴더명
+    해당 폴더에 만들경우에는 폴더명 대신 .을 적어주면 된다.
 
 <br/>
 
