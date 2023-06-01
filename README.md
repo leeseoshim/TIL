@@ -57,4 +57,4 @@
 
 ## GitHub
 
-- [startReact](https://github.com/leeseoshim/TIL/blob/main/github/ghpage.md)
+- [ghpage](https://github.com/leeseoshim/TIL/blob/main/github/ghpage.md)
