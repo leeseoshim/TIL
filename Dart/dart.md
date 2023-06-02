@@ -50,6 +50,13 @@ Chocolatey (약칭 Choco) : 윈도우에서 사용할 수 있는 커맨드 라�
     choco install dart-sdk
 
 1.  Y 입력
-2.          dart --version 으로 SDK설치가 잘 되었는지 확인
+2.            dart --version 으로 SDK설치가 잘 되었는지 확인
 
 vscode에서 Dart 익스텐션을 받아준다.
+
+<br/>
+
+# Dart 사용 방법
+
+main 함수는 Dart의 시작점이기때문에 main function을 반드시 작성해야한다.
+javascript 나 typescript에서는 자동으로 세미콜론을 찍어주지만 Dart에서는 그 기능이 없기떄문에 유의해야한다.

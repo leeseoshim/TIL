@@ -52,6 +52,7 @@
 ## Dart
 
 - [Dart 설치 방법](https://github.com/leeseoshim/TIL/blob/main/Dart/dart.md)
+- [변수](https://github.com/leeseoshim/TIL/blob/main/Dart/var.md)
 
 <br/>
 
